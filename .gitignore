@@ -1,3 +1,6 @@
 #Exclude text files except readme.
 *.txt
 !README.txt
+
+#exclude log files
+*.log
