@@ -1,1 +1,3 @@
-successlog.txt
+#Exclude text files except readme.
+*.txt
+!README.txt
